@@ -1,0 +1,15 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+#header.full-header #primary-menu > ul {
+    padding-right: 0;
+    margin-right: 0;
+    border-right: 0;
+}
+
+
+li span { font-weight: normal; }
